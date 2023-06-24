@@ -6,5 +6,6 @@
   <body>
     <h1>Basic Git and GitHub Commands</h1>
     <p>Introduction to git and github :)<p>
+    <p>changes was made by chiran :)</p>
   </body>
 </html>
