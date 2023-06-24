@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Git | GitHub Demo</title>
+  </head>
+  <body>
+    <h1>Basic Git and GitHub Commands</h1>
+    <p>Introduction to git and github :)<p>
+  </body>
+</html>
